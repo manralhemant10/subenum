@@ -1,6 +1,6 @@
 Command to use:
 
-./enum.sh example.com
+./subenum.sh example.com
 
 
 Tools used :
